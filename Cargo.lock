@@ -3,6 +3,7 @@
 [[package]]
 name = "auto_deploy"
 version = "0.1.0"
+source = "git+https://github.com/ecoble19/auto_deploy.git?branch=main#128c20d81ef4bd97fa22063cf3480132ff480902"
 dependencies = [
  "string-builder",
 ]

@@ -7,4 +7,4 @@ edition = "2018"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-auto_deploy = {path = "/home/erick/rust/auto_deploy"}
+auto_deploy = {git = "https://github.com/ecoble19/auto_deploy.git", branch="main"}
